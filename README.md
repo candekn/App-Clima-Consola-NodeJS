@@ -1,5 +1,5 @@
 # Clima-App (NodeJS)
-Aplicación de consola realizada en NodeJS, siguiendo el curso de Udemy <a href="Node: De cero a experto" target="_blank" >Node: De cero a experto</a>
+Aplicación de consola realizada en NodeJS, siguiendo el curso de Udemy [Node: De cero a experto](https://www.udemy.com/course/node-de-cero-a-experto) 
 
 ### Apis utilizadas:
 - <a href="https://www.mapbox.com" target="_blank" >MapBox Geocoding</a>
